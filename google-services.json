@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639933286768",
+    "project_id": "appfirebasem-db515",
+    "storage_bucket": "appfirebasem-db515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639933286768:android:9d1d34edafdd9af67167b5",
+        "android_client_info": {
+          "package_name": "com.example.appfirebasem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639933286768-p3htrv53p5hmv0nkidf52n2q58d4mln7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appfirebasem",
+            "certificate_hash": "fbd98590ffd43b66c38c53fd377d394303e1d2c8"
+          }
+        },
+        {
+          "client_id": "639933286768-870b8b5raunk1plrlr48gh41pi5cf10i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWx913pXNoy0nbdILQiv7Z76nMum3fro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639933286768-870b8b5raunk1plrlr48gh41pi5cf10i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
